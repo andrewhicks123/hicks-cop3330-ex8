@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 8 Solution
+ *  Copyright 2021 Andrew Hicks
+ */
+
 package com.example.Main;
 import java.util.*;
 
